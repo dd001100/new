@@ -1,2 +1,2 @@
-020
-Creating a new branch is quick & simple
+020l
+Creating a new branch is quick and simple.
